@@ -10,5 +10,5 @@ FILES :
 
 4. manual_regression : construct a basic linear regression model from scratch without torch - just using numpy and maths.
 
-5. 
+5. linear_regression_using_pytorch : we replace all manual steps in the previous code by functionalities from pytorch - autograd, optimizers, and linear models.
 
