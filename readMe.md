@@ -8,5 +8,7 @@ FILES :
 
 3. backpropogation : basics explained how are derivatives calculated using chain-rule
 
-4. Manual_NN : building a neural network from scratch without pytorch using only numpy. 
+4. manual_regression : construct a basic linear regression model from scratch without torch - just using numpy and maths.
+
+5. 
 
