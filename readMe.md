@@ -14,4 +14,6 @@ FILES :
 
 6. NN_from_scratch : construct a simple NN from scratch without torch on the MNIST data set using numpy and maths to classify digits with 0.85 accuracy
 
-7. dataset&dataloaders : introduction to dataloaders and basic maths involving batches and no of iterations.
+7. dataset & dataloaders : introduction to dataloaders and basic maths involving batches and no of iterations.
+
+8. Custom vs coded dataloaders : Wrote a dataloader from scratch and plot its loading times against the builtin pytorch dataloader to find its actually faster. 
